@@ -1,0 +1,2 @@
+module Api::BasesHelper
+end
